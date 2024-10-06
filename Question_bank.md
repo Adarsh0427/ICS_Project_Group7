@@ -18,3 +18,6 @@
 This is a type of malicious attack in which a attacker sends fake ARP messages to a target LAN with the intention of linking 
 their MAC address with the IP address of a legitimate device or server within the network. The link allows for data from the 
 victim's computer to be sent to the attacker's computer instead of the original destination. 
+
+## Terms:
+- An eavesdropping attack occurs when a hacker intercepts, deletes, or modifies data that is transmitted between two devices.
