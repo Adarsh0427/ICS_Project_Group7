@@ -4,6 +4,7 @@
  - Read the WEb (1).pdf (presentation slide)
  - watch this video carefully : https://www.youtube.com/watch?v=kUQqTk3SOq8
  - Read the Question bank.
+ - Demostration Command is given in spoof.cap (read it)
  - Slide Link : https://www.canva.com/design/DAGR1Zb3P4E/BZFX_bPtc5tb6mYZWYiNTA/view?utm_content=DAGR1Zb3P4E&utm_campaign=designshare&utm_medium=link&utm_source=editor
  - arp spoof detection:
    - XArp : https://www.youtube.com/watch?v=LqU5Z5c7JGM
