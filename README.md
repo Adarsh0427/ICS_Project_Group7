@@ -1,5 +1,6 @@
 # ICS_Project_Group7
 
+## Instruction
  - Read the WEb (1).pdf (presentation slide)
  - watch this video carefully : https://www.youtube.com/watch?v=kUQqTk3SOq8
  - Read the Question bank.
