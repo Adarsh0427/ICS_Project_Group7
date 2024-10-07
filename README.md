@@ -15,7 +15,7 @@
 
 ## Demonstration Step by Step Command explanation
 
-#### Without using a caplet
+### Without using a caplet
 - `ifconfig` : to find the interface of you network `wlo1` in my case.
 - `bettercap -iface wlo1`  This command launches Bettercap, a network monitoring and attack tool.
   - **bettercap**: Starts the Bettercap application.
@@ -56,3 +56,7 @@
 
 
 **Now if victim login on website which is not secure then the username and password will appeare on you screen.**
+
+### With using a caplet
+
+- `bettercap -iface wlo1 -caplet spoof.cap`
