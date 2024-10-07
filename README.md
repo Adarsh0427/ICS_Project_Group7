@@ -31,6 +31,7 @@
   - **arp.spoof.fullduplex**: The specific option for ARP spoofing behavior.
   - **true**: Activates full-duplex mode, allowing the attacker to intercept and manipulate traffic in both directions between two hosts.
 
+- using `net.show` you can check the victim's IP address. It will give a table in which one column has IP address and other column has mac address and some other informations in other columns.
 
 - `set arp.spoof.targets [Victim's IP address]` This command configures the ARP spoofing target in a tool like Bettercap.
 
