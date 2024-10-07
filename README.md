@@ -7,8 +7,8 @@
 # Evaluation Parts
 1) Introduction (ARP, ARP Poisoning, attack surface, attack vulnerabilities and attack anatomy)
 
-2) Attack score (Common Vulnerability Scoring System)
+2) Demonstration (bettercap application)
 
-3) Demonstration (bettercap application)
+3) Attack score (Attack Tree, Common Vulnerability Scoring System)
 
 4) Prevention and Detection (HTTPS, VPN)
